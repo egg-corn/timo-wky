@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @egg-corn
-- 👀 I’m interested in Category Theory and Functional Programming
-- 🌱 I’m currently learning how to be productive with Haskell.
-- 💞️ I’m looking to collaborate on nothing yet.
+- 👀 I’m interested in Mathematics and Functional Programming
 
 <!---
 egg-corn/timo-wky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
