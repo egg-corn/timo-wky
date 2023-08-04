@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saddle196883
-- 👀 I’m interested in Mathematics and Functional Programming
+- 👀 I’m interested in Mathematics andl Programming
 
 <!---
 saddle196883 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
